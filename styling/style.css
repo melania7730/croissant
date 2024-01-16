@@ -7,10 +7,14 @@ h1 {
 p {
   text-align: center;
 }
-a .footer {
-  text-align: center;
+a {
   color: brown;
 }
+.footer {
+  text-align: center;
+  display: block;
+}
 .croissant-pic {
+  display: block;
   max-width: 800px;
 }
