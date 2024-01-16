@@ -4,7 +4,13 @@ body {
 h1 {
   text-align: center;
 }
+p {
+  text-align: center;
+}
 a {
   text-align: center;
   color: brown;
+}
+.croissant-pic {
+  max-width: 800px;
 }
